@@ -63,5 +63,7 @@ Para facilitar nossa análise, o **dashboard** deve conter:
 👥 **Conto com todos para esse desafio!** Vamos juntos **fortalecer nossa marca e impulsionar nossos resultados!** 🚀
 
 ---
+**Após muito trabalho, o resultado está no linko do Power Bi abaixo:**
+https://goo.su/z3M3
 
 📂 **TODOS OS ARQUIVOS DA EMPRESA ESTÃO DISPONÍVEIS PARA DOWNLOAD.**
