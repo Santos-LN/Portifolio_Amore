@@ -1,5 +1,4 @@
-## Olá! Sou Lucas Santos ou simplesmente Santos-LN ##
- 
+
  📊 **Vendas da Amore – 2024**
 
  ✨ Introdução
